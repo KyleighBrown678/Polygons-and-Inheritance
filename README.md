@@ -15,6 +15,11 @@
             -takes as input the sides of the polygon and outputs the polygon's perimeter
         -dispSide
             -displays the length for each side
+   - 3 subclasses
+      - appropriate methods for finding the area and perimeter
+      - str method: prints properties of the polygon subclass
+      
+You should create an instance of your subclasses and print the details using your str class method. 
 ```Example: 
 Enter the length of a side : 1
 Enter the length of another side : 2
@@ -46,12 +51,6 @@ The area of the hexagon is 23.38
 This regular hexagon has 6 sides.
 This regular hexagon has sides with lengths [3.0, 3.0, 3.0, 3.0, 3.0, 3.0] 
 ```
-
-   - 3 subclasses:
-      - appropriate methods for finding the area and perimeter
-      - str method: prints properties of the polygon subclass
-      
-You should create an instance of your subclasses and print the details using your str class method. 
 
 ### Helpful Resources if your math has slipped you :):
 
