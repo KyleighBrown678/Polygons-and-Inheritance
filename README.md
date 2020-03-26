@@ -1,7 +1,7 @@
 # More on Inheritance
 
 ## Instructions
-- You will write a program that creates a base class Polygon with the following details
+- You will write a program that creates a base class Polygon with the following details:
    - class Polygon 
       - Parameterized constructor which takes num_of_sides as a parameter   
       - attributes: 
