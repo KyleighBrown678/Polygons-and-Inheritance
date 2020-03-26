@@ -3,18 +3,17 @@
 ## Instructions
 - You will write a program that creates a base class Polygon with the following details
    - class Polygon 
+      - Parameterized constructor which takes num_of_sides as a parameter   
+      - attributes: 
+         - n(integer) refers to the number of sides for the polygon
+         - sides(list) containing the lengths of each side of the polygon object
       
-      -Parameterized constructor which takes num_of_sides as a parameter
-      
-      -attributes: 
-         -n(integer) refers to the number of sides for the polygon
-         -sides(list) containing the lengths of each side of the polygon object
-      
-      -methods: 
-         -findPerimeter
-            -takes as input the sides of the polygon and outputs the polygon's perimeter
-        -dispSide
-            -displays the length for each side
+      - methods: 
+         - findPerimeter
+            - takes as input the sides of the polygon and outputs the polygon's perimeter
+        - dispSide
+            - displays the length for each side
+            
    - 3 subclasses
       - appropriate methods for finding the area and perimeter
       - str method: prints properties of the polygon subclass
