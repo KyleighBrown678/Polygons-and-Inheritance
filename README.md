@@ -1,4 +1,4 @@
-# More on Inheritance
+# More on Inheritance - Polygon Geometry 
 
 ## Instructions
 - You will write a program that creates a base class Polygon with the following details:
